@@ -1,6 +1,6 @@
 # Battleship-Game
 A simulated game of battleship between 0-2 players.  A player would call out a coordinate and the outcome and updated gameboard would be displayed.  This occurs repeatedly until one of the players wins.
-
+ 
 # Usage
 
 ## 0 Players
